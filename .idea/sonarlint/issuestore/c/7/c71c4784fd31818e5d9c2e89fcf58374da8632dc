@@ -1,0 +1,16 @@
+
+Q
+java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8®ßåš.
+y
+java:S1450"WRemove the "listener" field and declare it as a local variable in the relevant methods.(ş˜×óşÿÿÿÿ8Èéßåš.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(•ŞÍòşÿÿÿÿ8šàåš.
+£
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»ŠÇ¾ıÿÿÿÿ8°º¦åš.
+m
+java:S1104"PMake card a static final constant or non-public and provide accessors if needed.(Ì€ÊŸ8Ä÷ªëš.
+x
+java:S1450"[Remove the "searchButton" field and declare it as a local variable in the relevant methods.(ÛØíİ8€ÿ©ëš.
+W
+java:S1128"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8ÿ”¨åš.
+N
+java:S1068",Remove this unused "listener" private field.(ş˜×óşÿÿÿÿ8Èéßåš.

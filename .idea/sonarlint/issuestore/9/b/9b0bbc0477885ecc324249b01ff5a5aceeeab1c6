@@ -1,0 +1,23 @@
+
+l
+java:S1450 "VRemove the "mParam1" field and declare it as a local variable in the relevant methods.(•Íï‘
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÿÛ½Åš.
+M
+java:S1135"2Complete the task associated to this TODO comment.(ğï¢öúÿÿÿÿ
+S
+java:S1068"1Remove this unused "mRecyclerView" private field.(Òéıÿÿÿÿ8æáğ·š.
+A
+java:S1068 "+Remove this unused "mParam1" private field.(•Íï‘
+A
+java:S1068!"+Remove this unused "mParam2" private field.(¡ˆ€ 
+O
+java:S1068"2Remove this unused "mLayoutManager" private field.(¡¾•Ÿ8øÉó·š.
+M
+java:S1135"2Complete the task associated to this TODO comment.(ÜûŠ—øÿÿÿÿ
+N
+java:S1068",Remove this unused "mAdapter" private field.(î×îúÿÿÿÿ8ÃÚñ·š.
+M
+java:S1135/"2Complete the task associated to this TODO comment.(ßíŠÿÿÿÿÿ
+l
+java:S1450!"VRemove the "mParam2" field and declare it as a local variable in the relevant methods.(¡ˆ€ 

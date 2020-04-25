@@ -1,0 +1,21 @@
+
+€
+java:S1450"^Remove the "addFriendButton" field and declare it as a local variable in the relevant methods.(ı‡†ìÿÿÿÿÿ8‘Öåš.
+L
+java:S1068"*Remove this unused "tvTest" private field.(€£Õçıÿÿÿÿ8¦˜ô›.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(‡¨Æáøÿÿÿÿ8¦˜ô›.
+€
+java:S1450"^Remove the "pastReviewsCard" field and declare it as a local variable in the relevant methods.(ÃË½Ãüÿÿÿÿ8ì®¨›.
+g
+java:S1128"JRemove this unused import 'com.google.android.material.snackbar.Snackbar'.(ë„ƒŠ8ïÄ—š.
+O
+java:S1128"2Remove this unused import 'android.view.MenuItem'.(Ğ¬Ó‘8Ã¾ˆ—š.
+K
+java:S1128".Remove this unused import 'android.view.Menu'.(£¯Ò…8Ã¾ˆ—š.
+v
+java:S1450"ZRemove the "profileCard" field and declare it as a local variable in the relevant methods.(ä¦Ôb8êªöôš.
+t
+java:S1450"RRemove the "fab" field and declare it as a local variable in the relevant methods.(ÈÃ‡Æøÿÿÿÿ8ìäŠ—š.
+w
+java:S1450"URemove the "tvTest" field and declare it as a local variable in the relevant methods.(€£Õçıÿÿÿÿ8¦˜ô›.
+X	java:S125U"<This block of commented-out lines of code should be removed.(¶ˆì÷8¦˜ô›.
